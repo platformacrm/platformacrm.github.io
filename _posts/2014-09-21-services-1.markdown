@@ -6,9 +6,9 @@ title: PlatformaCRM
 description: |
   <p class="lead">
   Nowoczesny system wspomagający pracę przedsiębiorstwa,</p>
-  <p>Bezpieczny dostęp do Twoich danych za pośrednictwem wszystkich nowoczesnych urządzeń,</p>
-  <p>Praca w wielu językach,</p>
+  <p class="lead">Bezpieczny dostęp do Twoich danych za pośrednictwem wszystkich nowoczesnych urządzeń,</p>
+  <p class="lead">Praca w wielu językach,</p>
 
-  <p>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</p>
-  <p>personalizacja i dostosowanie systemu do Twoich potrzeb </p>
+  <p class="lead">wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</p>
+  <p class="lead">personalizacja i dostosowanie systemu do Twoich potrzeb </p>
 ---
