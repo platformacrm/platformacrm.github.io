@@ -5,11 +5,10 @@ category: Services
 title: Specjalizujemy się w
 description: |
   <p class="lead">
-  <ul><li>w optymalizacji procesów biznesowych:
-  np: handlowych, zakupów, zapasów materiałowych, planowania i rozliczania produkcji,</li>
-  <li>obsługi zamówień klientów i sprzedaży,</li>
-  <li>serwisu i obsługi posprzedażowej,</li>
-  <li>Implementacji Twoich unikalnych procesów biznesowych</li>
-  </p>
+  optymalizacji procesów biznesowych:
+  np: handlowych, zakupów, zapasów materiałowych, planowania i rozliczania produkcji,</p>
+  <p class="lead">obsługi zamówień klientów i sprzedaży,</p>
+  <p class="lead">serwisu i obsługi posprzedażowej,</p>
+  <p class="lead">Implementacji Twoich unikalnych procesów biznesowych</p>
 
 ---
