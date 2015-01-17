@@ -4,11 +4,12 @@ img: ipad.png
 category: Services
 title: PlatformaCRM 
 description: |
-  <p class="lead"><ul>
-  <li>bezpieczny dostęp za pośrednictwem wszystkich nowoczesnych urządzeń do twoich danych,</li>
-  <li>praca w wielu językach,</li>
-  <li>lokalna instalacja lub jako usługa z opłatą miesięczną,</li>
-  <li>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</li>
-  <li>personalizacja i dostosowanie systemu do potrzeb klienta</li></ul>
+  <p class="lead">
+  nowoczesny system wspomagający pracę przedsiębiorstwa,
+  <p>Bezpieczny dostęp do Twoich danych za pośrednictwem wszystkich nowoczesnych urządzeń,</p>
+  <p>Praca w wielu językach,</p>
+
+  <p>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</p>
+  <p>personalizacja i dostosowanie systemu do Twoich potrzeb </p>
   </p>
 ---
