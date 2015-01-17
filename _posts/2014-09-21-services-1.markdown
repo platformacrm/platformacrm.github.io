@@ -9,6 +9,6 @@ description: |
   <li>praca w wielu językach,</li>
   <li>lokalna instalacja lub jako usługa z opłatą miesięczną,</li>
   <li>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</li>
-  <li>personalizacja i dostosowanie systemu do potrzeb</li></ul>
+  <li>personalizacja i dostosowanie systemu do potrzeb klienta</li></ul>
   </p>
 ---
