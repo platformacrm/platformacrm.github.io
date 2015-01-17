@@ -4,12 +4,5 @@ img: ipad.png
 category: Services
 title: PlatformaCRM 
 description: |
-  <p class="lead">
-  <ul>
-  <li>Nowoczesny system wspomagający pracę przedsiębiorstwa</li>
-<li>bezpieczny dostęp za pośrednictwem wszystkich nowoczesnych urządzeń do twoich danych,</li>
-<li>praca w wielu języków,</li>
-<li>lokalna instalacja lub jako usługa z opłatą miesięczną,</li>
-<li>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</li>
-<li>personalizacja i dostosowanie systemu do potrzeb</li></ul></p>
+  <p class="lead">rrrr</p>
 ---
