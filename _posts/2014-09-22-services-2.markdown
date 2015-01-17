@@ -2,14 +2,11 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Specjalizujemy się w
 description: |
   <p class="lead">
-  <ul><li>w optymalizacji procesów biznesowych:</li>
-  <li>handlowych,</li>
-  <li>zakupów,</li>
-  <li>zapasów materiałowych,</li>
-  <li>planowania i rozliczania produkcji,</li>
+  <ul><li>w optymalizacji procesów biznesowych:
+  np: handlowych, zakupów, zapasów materiałowych, planowania i rozliczania produkcji,</li>
   <li>obsługi zamówień klientów i sprzedaży,</li>
   <li>serwisu i obsługi posprzedażowej,</li>
   <li>Implementacji Twoich unikalnych procesów biznesowych</li>
