@@ -2,11 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Technologia
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">Po prostu działa, intuicyjna, szybka niezależnie od tego czy masz kilku pracowników czy setki. System jest oparty na solidnych podstawach, architektura umożliwia szybkie zmiany a my mamy kompetencje do tego by ją zintegrować z dowolnym systemem i dostosować do twoich potrzeb.</p>
 
 ---
