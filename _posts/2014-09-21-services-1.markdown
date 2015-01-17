@@ -5,11 +5,10 @@ category: Services
 title: PlatformaCRM 
 description: |
   <p class="lead">
-  nowoczesny system wspomagający pracę przedsiębiorstwa,
+  Nowoczesny system wspomagający pracę przedsiębiorstwa,</p>
   <p>Bezpieczny dostęp do Twoich danych za pośrednictwem wszystkich nowoczesnych urządzeń,</p>
   <p>Praca w wielu językach,</p>
 
   <p>wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</p>
   <p>personalizacja i dostosowanie systemu do Twoich potrzeb </p>
-  </p>
 ---
