@@ -4,6 +4,11 @@ img: phones.png
 category: Services
 title: Technologia
 description: |
-  <p class="lead">Prosta, intuicyjna, szybka. Po prostu działa, niezależnie od tego czy masz kilku pracowników czy setki. System jest oparty na solidnych podstawach, architektura umożliwia szybkie zmiany a my mamy kompetencje do tego by ją zintegrować z dowolnym systemem i dostosować do Twoich potrzeb.</p>
+  <p class="lead">Bezpieczna, intuicyjna, szybka. Daje wolnosc, nie ogranicza LUDZI.
+Po prostu dziala, niezaleznie od tego czy masz kilku pracownikow czy setki.
+Oparta na solidnych podstawach, architektuje daje mozliwosc szybkiej modyfikacji.
 
+BEZPIECZENSTWO- INNOWACYJNOSC -WOLNOSC
+PRIORYTET: INNOWACYJNOSC 
+</p>
 ---

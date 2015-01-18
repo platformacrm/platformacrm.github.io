@@ -1,14 +1,13 @@
 ---
 layout: default
 img: dog.png
-category: Services
-title: Specjalizujemy się w
+category: Pomagamy największym firmom w swoich branżach
+title: Zapewnimy
 description: |
-  <p class="lead">
-  optymalizacji procesów biznesowych:
-  np: handlowych, zakupów, zapasów materiałowych, planowania i rozliczania produkcji,</p>
-  <p class="lead">obsługi zamówień klientów i sprzedaży,</p>
-  <p class="lead">serwisu i obsługi posprzedażowej,</p>
-  <p class="lead">Implementacji Twoich unikalnych procesów biznesowych</p>
-
+<p class="lead">skutecznie zarzadzac procesami biznesowymi </p>
+<p class="lead"> upraszczac procesy i efektywnie wykorzystywac zasoby i potencjal LUDZI </p>
+<p class="lead"> zapewnic najwyzszy poziom uslug</p>
+<p class="lead">
+SKUTECZNOSC - OPTMALIZACJA - ZADOWOLENIE KLIENTA</p>
+<p class="lead">PRIORYTET: SKUTECZNOSC</p>
 ---

@@ -2,13 +2,10 @@
 layout: default
 img: ipad.png
 category: Services
-title: PlatformaCRM 
+title: Platforma CRM to nowoczesny system 
 description: |
-  <p class="lead">
-  Nowoczesny system wspomagający pracę przedsiębiorstwa,</p>
-  <p class="lead">Bezpieczny dostęp do Twoich danych za pośrednictwem wszystkich nowoczesnych urządzeń,</p>
-  <p class="lead">Praca w wielu językach,</p>
-
-  <p class="lead">wsparcie dla współpracy wielu organizacji/oddziałów/zespołów,</p>
-  <p class="lead">personalizacja i dostosowanie systemu do Twoich potrzeb </p>
+  <p class="lead">umozliwiajacy efektywna komunikacje, wymiane inforamcji i przeplyw wiedzy miedzy LUDZMI, dzialami, oddzialami
+dostepny w roznych jezykach, Gdziekolwiek jestes, za posrednictwem nowoczesnych urzadzen</p>
+<p class="lead">WSPOLPRACA - ORGANIZACJA -PRZEPLYW WIEDZY</p>
+<p class="lead">PRIORYTET: TWOJ ZESPOL.</p>
 ---
