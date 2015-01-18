@@ -24,7 +24,7 @@ social:
     icon: glyphicon glyphicon-ok
     url: #contact
   - title: CRM
-    icon: glyphicon glyphicon-ok
+    icon: glyphicon glyphicon-user
     url: #contact
   - title: ERP/MRP
     icon: glyphicon glyphicon-wrench
