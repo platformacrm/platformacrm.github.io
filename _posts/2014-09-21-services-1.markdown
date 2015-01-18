@@ -4,8 +4,7 @@ img: ipad.png
 category: Services
 title: Szybkie i intuicyjne narzędzie
 description: |
-  <p class="lead">Umozliwiające efektywną komunikacje między LUDZMI, działami, oddziałami</p>
-  <p class="lead">Stanowi centralne źródło wiedzy i umożliwia szybki dostęp do zgromadzonych inforamcji</p>
-  <p class="lead">Gromadzi wiedzę LUDZI, pozwala łatwo ją wyszukać,  skupić się na rozwiązywaniu problemów</p>
-  <p class="lead">Dostępne w wielu językach, gdziekolwiek jesteś, za pośrednictwem nowoczesnych urzadzeń</p>
+  <p class="lead">Umożliwia efektywną komunikacje między LUDŹMI, działami, oddziałami</p>
+  <p class="lead">Gromadzi wiedzę LUDZI, pozwala łatwo ją wyszukać, skupić się na rozwiązaniu problemu</p>
+  <p class="lead">Dostępne w wielu językach, gdziekolwiek jesteś, za pośrednictwem nowoczesnych urządzeń</p>
 ---
