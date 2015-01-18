@@ -5,8 +5,7 @@ category: Services
 title: Szybkie i intuicyjne narzêdzie
 description: |
   <p class="lead">Umozliwiaj¹ce efektywn¹ komunikacje miêdzy LUDZMI, dzia³ami, oddzia³ami</p>
-  <p class="lead">Centralne Ÿród³o wiedzy </p>
-  <p class="lead">Gromadzi wiedzê LUDZI, pozwala ³atwo j¹ wyszukaæ, 
-  skupiæ siê na rozwi¹zywaniu problemów</p>
+  <p class="lead">Stanowi centralne Ÿród³o wiedzy i umo¿liwia szybki dostêp do zgromadzonych inforamcji</p>
+  <p class="lead">Gromadzi wiedzê LUDZI, pozwala ³atwo j¹ wyszukaæ,  skupiæ siê na rozwi¹zywaniu problemów</p>
   <p class="lead">Dostêpne w wielu jêzykach, gdziekolwiek jesteœ, za poœrednictwem nowoczesnych urzadzeñ</p>
 ---
