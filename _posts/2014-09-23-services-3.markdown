@@ -4,11 +4,8 @@ img: phones.png
 category: Services
 title: Technologia
 description: |
-  <p class="lead">Bezpieczna, intuicyjna, szybka. Daje wolnosc, nie ogranicza LUDZI.
-  Po prostu dziala, niezaleznie od tego czy masz kilku pracownikow czy setki.
-  Oparta na solidnych podstawach, architektuje daje mozliwosc szybkiej modyfikacji.
-
-  BEZPIECZENSTWO- INNOWACYJNOSC -WOLNOSC
-  PRIORYTET: INNOWACYJNOSC 
+  <p class="lead">Szybka, intuicyjna, bezpieczna. Po prostu dzia³a, 
+  niezaleznie od tego czy masz kilku pracownikow czy setki.
+  Oparta na solidnych podstawach, architektura dajê mo¿liwoœæ ³atwej modyfikacji.
   </p>
 ---
