@@ -21,10 +21,11 @@ permalink: pretty
 
 social:
   - title: Umów się na prezentacje
+    icon: glyphicon glyphicon-ok
     url: http://platformacrm.pl
   - title: CRM
+    icon: glyphicon glyphicon-ok
     url: http://platformacrm.pl
-  - title: ERP
-    url: http://platformacrm.pl
-  - title: MRP
+  - title: ERP/MRP
+    icon: glyphicon glyphicon-wrench
     url: http://platformacrm.pl
