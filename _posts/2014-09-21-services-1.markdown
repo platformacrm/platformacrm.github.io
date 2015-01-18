@@ -2,10 +2,10 @@
 layout: default
 img: ipad.png
 category: Services
-title: Szybkie i intuicyjne narzêdzie
+title: Szybkie i intuicyjne narzÄ™dzie
 description: |
-  <p class="lead">Umozliwiaj¹ce efektywn¹ komunikacje miêdzy LUDZMI, dzia³ami, oddzia³ami</p>
-  <p class="lead">Stanowi centralne Ÿród³o wiedzy i umo¿liwia szybki dostêp do zgromadzonych inforamcji</p>
-  <p class="lead">Gromadzi wiedzê LUDZI, pozwala ³atwo j¹ wyszukaæ,  skupiæ siê na rozwi¹zywaniu problemów</p>
-  <p class="lead">Dostêpne w wielu jêzykach, gdziekolwiek jesteœ, za poœrednictwem nowoczesnych urzadzeñ</p>
+  <p class="lead">UmozliwiajÄ…ce efektywnÄ… komunikacje miÄ™dzy LUDZMI, dziaÅ‚ami, oddziaÅ‚ami</p>
+  <p class="lead">Stanowi centralne ÅºrÃ³dÅ‚o wiedzy i umoÅ¼liwia szybki dostÄ™p do zgromadzonych inforamcji</p>
+  <p class="lead">Gromadzi wiedzÄ™ LUDZI, pozwala Å‚atwo jÄ… wyszukaÄ‡,  skupiÄ‡ siÄ™ na rozwiÄ…zywaniu problemÃ³w</p>
+  <p class="lead">DostÄ™pne w wielu jÄ™zykach, gdziekolwiek jesteÅ›, za poÅ›rednictwem nowoczesnych urzadzeÅ„</p>
 ---
