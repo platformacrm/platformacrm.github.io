@@ -4,7 +4,7 @@ img: phones.png
 category: Services
 title: Technologia
 description: |
-  <p class="lead">Szybka, intuicyjna, bezpieczna dla użytkownika.</p>
+  <p class="lead">Szybka, bezpieczna, intuicyjna dla LUDZI.</p>
   <p class="lead">Jest niezawodna i po prostu działa.</p>
   <p class="lead">Niezależnie od tego czy masz kilku pracownikow czy setki.</p>
   <p class="lead">Oparta na solidnych podstawach i technologich.</p> 
