@@ -5,7 +5,7 @@ category: Services
 title: Platforma CRM to nowoczesny system 
 description: |
   <p class="lead">umozliwiajacy efektywna komunikacje, wymiane inforamcji i przeplyw wiedzy miedzy LUDZMI, dzialami, oddzialami
-dostepny w roznych jezykach, Gdziekolwiek jestes, za posrednictwem nowoczesnych urzadzen</p>
-<p class="lead">WSPOLPRACA - ORGANIZACJA -PRZEPLYW WIEDZY</p>
-<p class="lead">PRIORYTET: TWOJ ZESPOL.</p>
+  dostepny w roznych jezykach, Gdziekolwiek jestes, za posrednictwem nowoczesnych urzadzen</p>
+  <p class="lead">WSPOLPRACA - ORGANIZACJA -PRZEPLYW WIEDZY</p>
+  <p class="lead">PRIORYTET: TWOJ ZESPOL.</p>
 ---

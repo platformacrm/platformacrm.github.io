@@ -4,10 +4,10 @@ img: dog.png
 category: Pomagamy największym firmom w swoich branżach
 title: Zapewnimy
 description: |
-<p class="lead">skutecznie zarzadzac procesami biznesowymi </p>
-<p class="lead"> upraszczac procesy i efektywnie wykorzystywac zasoby i potencjal LUDZI </p>
-<p class="lead"> zapewnic najwyzszy poziom uslug</p>
-<p class="lead">
-SKUTECZNOSC - OPTMALIZACJA - ZADOWOLENIE KLIENTA</p>
-<p class="lead">PRIORYTET: SKUTECZNOSC</p>
+  <p class="lead">skutecznie zarzadzac procesami biznesowymi </p>
+  <p class="lead"> upraszczac procesy i efektywnie wykorzystywac zasoby i potencjal LUDZI </p>
+  <p class="lead"> zapewnic najwyzszy poziom uslug</p>
+  <p class="lead">
+  SKUTECZNOSC - OPTMALIZACJA - ZADOWOLENIE KLIENTA</p>
+  <p class="lead">PRIORYTET: SKUTECZNOSC</p>
 ---
