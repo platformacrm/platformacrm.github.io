@@ -1,7 +1,7 @@
 ---
 layout: default
-img: phones.png
-category: Services
+img: technology.png
+category: technology
 title: Technologia
 description: |
   <p class="lead">Szybka, bezpieczna, intuicyjna dla LUDZI.</p>
