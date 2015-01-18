@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: user-friendly-platformaCRM.png
 category: Services
 title: Szybkie i intuicyjne narzędzie
 description: |
