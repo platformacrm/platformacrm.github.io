@@ -5,7 +5,8 @@ category: Services
 title: Technologia
 description: |
   <p class="lead">Szybka, intuicyjna, bezpieczna dla użytkownika.</p>
-  <p class="lead">Po prostu działa, niezależnie od tego czy masz kilku pracownikow czy setki.</p>
+  <p class="lead">Jest niezawodna i po prostu działa.</p>
+  <p class="lead">Niezależnie od tego czy masz kilku pracownikow czy setki.</p>
   <p class="lead">Oparta na solidnych podstawach i technologich.</p> 
   <p class="lead">Architektura daję możliwość łatwej modyfikacji.</p>
   </p>
