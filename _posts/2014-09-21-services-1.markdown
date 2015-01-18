@@ -2,10 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Platforma CRM to nowoczesny system 
+title: Szybkie i intuicyjne narzêdzie
 description: |
-  <p class="lead">umozliwiajacy efektywna komunikacje, wymiane inforamcji i przeplyw wiedzy miedzy LUDZMI, dzialami, oddzialami
-  dostepny w roznych jezykach, Gdziekolwiek jestes, za posrednictwem nowoczesnych urzadzen</p>
-  <p class="lead">WSPOLPRACA - ORGANIZACJA -PRZEPLYW WIEDZY</p>
-  <p class="lead">PRIORYTET: TWOJ ZESPOL.</p>
+  <p class="lead">Umozliwiaj¹ce efektywn¹ komunikacje miêdzy LUDZMI, dzia³ami, oddzia³ami</p>
+  <p class="lead">Centralne Ÿród³o wiedzy </p>
+  <p class="lead">Gromadzi wiedzê LUDZI, pozwala ³atwo j¹ wyszukaæ, 
+  skupiæ siê na rozwi¹zywaniu problemów</p>
+  <p class="lead">Dostêpne w wielu jêzykach, gdziekolwiek jesteœ, za poœrednictwem nowoczesnych urzadzeñ</p>
 ---
