@@ -1,8 +1,8 @@
 ---
 layout: default
 img: dog.png
-category: Pomagamy największym firmom w swoich branżach
-title: Zapewnimy
+category: Services
+title: Pomagamy największym firmom w swoich branżach
 description: |
   <p class="lead">skutecznie zarzadzac procesami biznesowymi </p>
   <p class="lead"> upraszczac procesy i efektywnie wykorzystywac zasoby i potencjal LUDZI </p>
