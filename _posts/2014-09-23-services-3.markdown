@@ -4,8 +4,9 @@ img: phones.png
 category: Services
 title: Technologia
 description: |
-  <p class="lead">Szybka, intuicyjna, bezpieczna. Po prostu działa, 
-  niezaleznie od tego czy masz kilku pracownikow czy setki.
-  Oparta na solidnych podstawach, architektura daję możliwość łatwej modyfikacji.
+  <p class="lead">Szybka, intuicyjna, bezpieczna dla użytkownika.</p>
+  <p class="lead">Po prostu działa, niezależnie od tego czy masz kilku pracownikow czy setki.</p>
+  <p class="lead">Oparta na solidnych podstawach i technologich.</p> 
+  <p class="lead">Architektura daję możliwość łatwej modyfikacji.</p>
   </p>
 ---
